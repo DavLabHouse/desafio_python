@@ -1,0 +1,27 @@
+Estado: Distrito Federal - R$ 56252.90
+Estado: Rio de Janeiro - R$ 27848.93
+Estado: Mato Grosso do Sul - R$ 19915.60
+Estado: Santa Catarina - R$ 19597.27
+Estado: São Paulo - R$ 19402.11
+Estado: Espírito Santo - R$ 19297.53
+Estado: Rio Grande do Sul - R$ 19072.48
+Estado: Mato Grosso - R$ 16370.50
+Estado: Goiás - R$ 15908.97
+Estado: Paraná - R$ 15077.53
+Estado: Rondônia - R$ 11860.91
+Estado: Minas Gerais - R$ 11266.88
+Estado: Sergipe - R$ 11049.78
+Estado: Amapá - R$ 10136.12
+Estado: Roraima - R$ 9582.18
+Estado: Tocantins - R$ 9386.66
+Estado: Acre - R$ 8344.14
+Estado: Pará - R$ 7716.04
+Estado: Rio Grande do Norte - R$ 7234.38
+Estado: Bahia - R$ 6989.95
+Estado: Pernambuco - R$ 6606.93
+Estado: Alagoas - R$ 5980.69
+Estado: Amazonas - R$ 5788.66
+Estado: Paraíba - R$ 5565.35
+Estado: Ceará - R$ 5384.55
+Estado: Maranhão - R$ 4545.54
+Estado: Piauí - R$ 4533.86
